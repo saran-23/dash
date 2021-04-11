@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T13:38:33.063Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.2.9" etag="1Jpok7Gl6_1YVKkBuHRR" type="github"><diagram id="sde_BVX__lcM7MRa-UJk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-11T13:51:30.860Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ELY4yoiojf_4xNKP8Ofv" version="14.2.9" type="github">
+  <diagram id="sde_BVX__lcM7MRa-UJk" name="Page-1">
+    <mxGraphModel dx="1022" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I5V9-G7gasXUviYT8Jt6-3" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="255" width="210" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="I5V9-G7gasXUviYT8Jt6-8" value="&lt;span style=&quot;font-size: 24px&quot;&gt;P(A) =&amp;nbsp;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I5V9-G7gasXUviYT8Jt6-9" value="&lt;span style=&quot;font-size: 24px&quot;&gt;successful trials&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I5V9-G7gasXUviYT8Jt6-10" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Total number of all trials&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="299" y="270" width="230" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
